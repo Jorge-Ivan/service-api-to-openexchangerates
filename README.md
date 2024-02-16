@@ -1,4 +1,4 @@
-La aplicación descrita es una API REST básica desarrollada en Node.js para consumir APIs de OpenExchangeRates, además de proporcionar un registro y inicio de sesión simple utilizando Firebase.
+La aplicación descrita es una API REST básica desarrollada en Node.js para consumir APIs de [OpenExchangeRates](https://docs.openexchangerates.org/reference/api-introduction), además de proporcionar un registro y inicio de sesión simple utilizando Firebase.
 
 * **Registro en Firebase:**
     * Método: POST
